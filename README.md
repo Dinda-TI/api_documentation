@@ -2,7 +2,7 @@
 # Documentação - APIs
 
 ## Autenticar 
-- [API responsável pela autenticação das APIs](autenticate.md)
+- [API responsável pela autenticação das APIs](authenticate.md)
 
 ## Tipos de dependentes
 - [API responsável por listar tipos de dependentes](listTypeDependent.md)
