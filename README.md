@@ -4,6 +4,13 @@
 ## Autenticar 
 - [API responsável pela autenticação das APIs](authenticate.md)
 
+
+## Lista dos dependentes (entidades)
+- [API responsável por listar as entidades dependentes](getDependents.md)
+
+## Obter usuário logado e responsável
+- [API responsável por obter usuário](getUserResponsable.md)
+
 ## Tipos de dependentes
 - [API responsável por listar tipos de dependentes](listTypeDependent.md)
 
