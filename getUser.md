@@ -1,6 +1,6 @@
 
 ### Obter dados do usuário 
-Url: https://api.appdinda.com.br/v1/api/ia/GetUser
+Url: https://api.appdinda.com.br/v1/api/ia/GetUserResponsable
 
 Enviar no **Header** da chamada os seguintes parametros:
 
