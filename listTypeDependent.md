@@ -1,6 +1,6 @@
 
 ### Listagem dos tipos de dependentes
-Url: https://api.appdinda.com.br/v1/api/config/ListTypeDependent
+Url: https://api.appdinda.com.br/v1/api/ia/ListTypeDependent
 
 Enviar no **Header** da chamada os seguintes parametros:
 ```javascript {.line-numbers}
