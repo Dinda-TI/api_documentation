@@ -4,12 +4,12 @@ Url: https://api.appdinda.com.br/v1/api/authenticate
 
 Com a **chave(key)** do cliente fornecida pela DINDA siga os passos abaixo.
 
-Enviar no **Header** da chamada **POST** os seguintes parametros:
+Enviar no **Header** da chamada os seguintes parametros:
 ```javascript {.line-numbers}
 Content-Type: application/json
 ```
 
-Enviar o json abaixo:
+Enviar o json abaixo via **POST**:
 ```javascript {.line-numbers}
 {
   "key":"KEY_DO_CLIENTE"
