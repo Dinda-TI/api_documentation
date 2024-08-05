@@ -23,10 +23,6 @@ Exemplo de retorno:
             "text": "Avô(ó)",
             "value": "6"
         },
-        {
-            "text": "Esposo(a)",
-            "value": "5"
-        },
         ......
     ]
 }
