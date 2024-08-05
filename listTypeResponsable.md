@@ -1,5 +1,5 @@
 
-### ListTypeResponsable
+### Lista de responsáveis
 Url: https://api.appdinda.com.br/v1/api/config/ListTypeResponsable
 
 Enviar no **Header** da chamada os seguintes parametros:
