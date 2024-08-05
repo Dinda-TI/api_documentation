@@ -1,5 +1,5 @@
 
-# Documentação das APIs da DINDA
+# Documentação - APIs
 
 ## Autenticar 
 - [API responsável pela autenticação das APIs](autenticar.md)
