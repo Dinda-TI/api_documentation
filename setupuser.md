@@ -19,9 +19,7 @@ Se os dados estiverem ok o sistema retornará o seguinte JSON.
 Exemplo de retorno:
 ```javascript {.line-numbers}
 {
-    "Code": 0,
-    "Message": "OK",
-    "Data": null
+   
 }
 ```
  
