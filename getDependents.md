@@ -3,6 +3,9 @@
 Url: https://api.appdinda.com.br/v1/api/ia/GetDependents
 
 Enviar no **Header** da chamada os seguintes parametros:
+
+    Parametros: aid = accountId
+                uid = userId
 ```javascript {.line-numbers}
 Content-Type: application/json
 Authorization: Bearer AQUI_VAI_O_TOKEN
