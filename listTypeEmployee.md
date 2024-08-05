@@ -15,7 +15,7 @@ Exemplo de retorno:
 {
     "status": 200,
     "data": [
-         {
+        {
             "text": "Acompanhante de Idosos",
             "value": "1"
         },
