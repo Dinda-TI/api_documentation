@@ -1,6 +1,6 @@
 
 ### Lista de Dependentes
-Url: https://api.appdinda.com.br/v1/api/config/GetDependents
+Url: https://api.appdinda.com.br/v1/api/ia/GetDependents
 
 Enviar no **Header** da chamada os seguintes parametros:
 ```javascript {.line-numbers}
