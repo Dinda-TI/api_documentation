@@ -30,9 +30,9 @@ Enviar o json abaixo via **POST**
       "lastName": "string",
       "gender": "string",
       "birthday": "2024-08-06T00:19:52.871Z",
+      "profileType": "string",   [RESPONSAVEL / FUNCIONARIO / DEPENDENTE]
       "phone": "string",  [Se (RESPONSAVEL / FUNCIONARIO) Obrigatório]     
       "email": "string",  [Se (RESPONSAVEL / FUNCIONARIO) Obrigatório]     
-      "profileType": "string",   [RESPONSAVEL / FUNCIONARIO / DEPENDENTE]
       "responsableType": "string",  [OPTIONAL]
       "dependentType": "string",  [OPTIONAL]
       "functionType": "string",  [OPTIONAL]
