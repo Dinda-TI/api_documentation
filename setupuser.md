@@ -15,25 +15,28 @@ Header: aid <value>
 
 Enviar o json abaixo via **POST** 
 ```javascript {.line-numbers}
-{
-  "guid": "string", [PARAMETRO 'uid' mesmo do HEADER]
-  "birthday": "2024-08-05T21:48:54.029Z",
+{  
+  "birthday": "2024-08-06T00:19:52.871Z",
   "gender": "string",
-  "hasDependents": true,
+  "phone": "string",
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
   "familyName": "string",
   "groupFamily": [
     {
-      "guid": "string", [OPTIONAL - Quando for atualização informar]
+      "guid": "string",  [OPTIONAL - Quando for atualização informar]
       "firstName": "string",
       "lastName": "string",
       "gender": "string",
-      "birthday": "2024-08-05T21:48:54.029Z",
-      "profileType": "string",  [RESPONSAVEL / FUNCIONARIO / DEPENDENTE]
-      "phone": "string", [Se (RESPONSAVEL / FUNCIONARIO) Obrigatório]      
+      "birthday": "2024-08-06T00:19:52.871Z",
+      "phone": "string",  [Se (RESPONSAVEL / FUNCIONARIO) Obrigatório]     
+      "email": "string",  [Se (RESPONSAVEL / FUNCIONARIO) Obrigatório]     
+      "profileType": "string",   [RESPONSAVEL / FUNCIONARIO / DEPENDENTE]
       "responsableType": "string",  [OPTIONAL]
       "dependentType": "string",  [OPTIONAL]
       "functionType": "string",  [OPTIONAL]
-      "specialNeeds": true  [OPTIONAL]
+      "specialNeeds": true [OPTIONAL]
     }
   ]
 }
@@ -44,7 +47,9 @@ Se os dados estiverem ok o sistema retornará o seguinte JSON.
 Exemplo de retorno:
 ```javascript {.line-numbers}
 {
-   
+   "status": 200
+   "data": true
+   "message": ""
 }
 ```
  
