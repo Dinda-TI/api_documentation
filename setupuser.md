@@ -33,9 +33,9 @@ Enviar o json abaixo via **POST**
       "profileType": "string",   [RESPONSAVEL / FUNCIONARIO / DEPENDENTE]
       "phone": "string",  [Se (RESPONSAVEL / FUNCIONARIO) Obrigatório]     
       "email": "string",  [Se (RESPONSAVEL / FUNCIONARIO) Obrigatório]     
-      "responsableType": "string",  [OPTIONAL]
-      "dependentType": "string",  [OPTIONAL]
-      "functionType": "string",  [OPTIONAL]
+      "responsableType": "string",   [Se (RESPONSAVE) Obrigatório]    
+      "dependentType": "string",   [Se (DEPENDENTE) Obrigatório]    
+      "functionType": "string",   [Se (FUNCIONARIO) Obrigatório]    
       "specialNeeds": true [OPTIONAL]
     }
   ]
