@@ -12,6 +12,10 @@ Fluxo de comunicação entre "AppDinda" com o "IA".
 > ../api/Authenticate
 - [API responsável pela autenticação das APIs](authenticate.md)
 
+## Obter dados do usuario authenticado 
+> ../api/ia/GetUser
+- [API responsável por obter dados do usuário](getUser.md)
+
 ## Lista dos dependentes (entidades)
 > ../api/ia/GetDependents
 - [API responsável por listar as entidades dependentes](getDependents.md)
