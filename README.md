@@ -3,7 +3,7 @@
 
 Fluxo de comunicação entre "AppDinda" com o "IA".
 
-![Diagrama](https://github.com/Dinda-TI/api_documentation/blob/main/diagram_sequence.png?raw=true)
+![Diagrama](https://github.com/Dinda-TI/api_documentation/blob/main/diagram_sequence2.png?raw=true)
 
 
 
