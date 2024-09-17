@@ -7,7 +7,10 @@ Fluxo de comunicação entre "AppDinda" com o "IA".
 
 
 
-
+## Obter dados do questionário do usuário 
+> ../api/ia/GetQuestion
+- [API responsável por obter dados do questionario vinculado ao usuário](getQuestion.md)
+- 
 ## Autenticar
 > ../api/Authenticate
 - [API responsável pela autenticação das APIs](authenticate.md)
