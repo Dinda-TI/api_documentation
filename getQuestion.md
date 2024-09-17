@@ -12,11 +12,16 @@ Authorization: Bearer AQUI_VAI_O_TOKEN
 Header: aid <value>
         uid <value>  
 ```
-Chamada via **GET** 
+
+Enviar o json abaixo via **GET** 
+```javascript {.line-numbers}
 {
     "objectGuid":"bb14d64e-9bc9-4ffb-ae67-97f876f39de9",
     "objectType":"DEPENDENTE"
 }
+```
+ 
+
 
 Se os dados estiverem ok o sistema retornará o seguinte JSON.
 Exemplo de retorno:
