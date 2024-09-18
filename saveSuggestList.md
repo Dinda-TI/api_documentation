@@ -49,7 +49,6 @@ Exemplo de retorno:
 {
    "status": 200
    "data": true
-   "message": ""
 }
 ```
  
