@@ -1,6 +1,6 @@
 
 ### Enviando dados do questionoario
-Url: [https://api.appdinda.com.br/v1/api/ia/GetQuestion](https://n8n.7bot.ai/webhook/8516fc7a-ddfe-445c-975d-2425521b7700)
+Url: [https://api.appdinda.com.br/v1/api/ia/SendQuestion](https://n8n.7bot.ai/webhook/8516fc7a-ddfe-445c-975d-2425521b7700)
 
  
 
