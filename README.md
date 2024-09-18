@@ -12,10 +12,14 @@ Fluxo de comunicação entre "AppDinda" com o "IA".
 - [API responsável por obter dados do questionario vinculado ao usuário](getQuestion.md)
 
 
-  ## Enviar dados do questionário para IA
-> ../api/ia/GetQuestion
+## Enviar dados do questionário para IA
+> ../api/ia/sendQuestion
 - [API responsável por enviar dados para IA](sendQuestion.md)
 
+
+## Cadastrar lista de sugestões
+> ../api/ia/saveSuggestList
+- [API responsável por criar lista de sugestões](saveSuggestList.md)
 
   
 ## Autenticar
