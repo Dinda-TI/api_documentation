@@ -18,7 +18,7 @@ Enviar o json abaixo via **POST**
 {
   "code": 100002,  
   "userName": "Leandro",
-  "userNumber": "5551993385697",
+  "userNumber": "5554944485697",
   "items": [     
     {
         "name": "ITEM UPDATE 01",
